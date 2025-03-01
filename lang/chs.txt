@@ -8,7 +8,7 @@ Last rev.: 20250228
 === PeaZip text group ===
 
 txt_10_3_classic: 经典
-txt_10_3_ascii: 当前存档格式建议密码仅使用ASCII字符（混合大小写字母、数字和特殊字符）。
+txt_10_3_ascii: 对于当前归档文件格式，建议仅使用 ASCII 字符作为密码（混合大小写字母、数字和特殊字符）。
 txt_10_3_minimal: 极简
 txt_10_3_m: 现代
 txt_10_3_pm: 后现代
